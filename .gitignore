@@ -1,0 +1,26 @@
+# Ignore toàn bộ ảnh, PDF, media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.avif
+*.pdf
+*.heic
+*.mp4
+*.html
+*.txt
+*.json
+
+# Ignore các thư mục uploads theo năm
+/2016/
+/2019/
+/2021/
+/2022/
+/2023/
+/2024/
+/2025/
+
+# Ignore plugin ảnh Instagram Spotlight
+/spotlight-insta/
